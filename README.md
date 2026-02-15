@@ -1,0 +1,1 @@
+The architecture of a simple network for Symbolic regression<img width="786" height="899" alt="Screenshot 2026-02-15 at 10 10 45 AM" src="https://github.com/user-attachments/assets/7fdf7170-3915-4bd4-848e-04f9e79ecf41" />
